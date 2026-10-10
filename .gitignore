@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS and editor files
+.DS_Store
+.vscode/
+
+# Secrets
+.env
+.env.*
+
+# Raw and processed data
+data/raw/*
+data/processed/*
+
+# Keep folder placeholders if needed
+!data/raw/.gitkeep
+!data/processed/.gitkeep
