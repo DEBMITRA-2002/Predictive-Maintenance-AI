@@ -1,0 +1,20 @@
+{
+    "project_name": "AI-Based Predictive Maintenance System",
+    "model_name": "LightGBM",
+    "target_column": "Machine failure",
+    "features": [
+        "Type",
+        "Air temperature [K]",
+        "Process temperature [K]",
+        "Rotational speed [rpm]",
+        "Torque [Nm]",
+        "Tool wear [min]"
+    ],
+    "selection_metric": "PR-AUC (Average Precision)",
+    "Accuracy": 0.982,
+    "Precision": 0.7222222222222222,
+    "Recall": 0.7647058823529411,
+    "F1 Score": 0.7428571428571429,
+    "ROC-AUC": 0.9701848130556571,
+    "PR-AUC (AP)": 0.844027436048066
+}
