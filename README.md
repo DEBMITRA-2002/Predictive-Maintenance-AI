@@ -208,6 +208,3 @@ The completed project can generate:
 
 Machine Learning Project — AI-Based Predictive Maintenance System
 
-## License
-
-Choose an appropriate license before publicly distributing this project. For example, an MIT License may be suitable if you intend to permit reuse under its terms.
